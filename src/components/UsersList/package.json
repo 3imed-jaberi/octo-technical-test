@@ -1,0 +1,5 @@
+{
+  "name": "UsersList",
+  "private": true,
+  "main": "./UsersList.jsx"
+}

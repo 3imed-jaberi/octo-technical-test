@@ -1,0 +1,16 @@
+#      Vite       #
+###################
+vite.config.js
+
+#  NODE_MODULES   #
+###################
+/node_modules
+
+#     Styles      #
+###################
+*.scss
+*.css
+
+#      Build      #
+###################
+/build

@@ -1,0 +1,5 @@
+{
+  "name": "PhotosList",
+  "private": true,
+  "main": "./PhotosList.jsx"
+}
